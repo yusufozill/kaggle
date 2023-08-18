@@ -1,0 +1,10 @@
+# .ipynb dosyalarını ignore etme
+*.csv
+*.png
+*.db
+*.xls
+*.xlsm
+*.xlsx
+*.xml
+*.pkl
+
