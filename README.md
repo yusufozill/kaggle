@@ -1,2 +1,2 @@
 # kaggle
-The Data Sience BootCamp
+The Data science BootCamp
